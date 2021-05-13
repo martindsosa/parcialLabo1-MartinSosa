@@ -5,9 +5,10 @@
  *      Author: martindamian
  */
 
-#include "Servicio.h"
+
 #include <string.h>
 #include <stdio.h>
+#include "Servicio.h"
 #define LIBRE 0
 #define OCUPADO 1
 

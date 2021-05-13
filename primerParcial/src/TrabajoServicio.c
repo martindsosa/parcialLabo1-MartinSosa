@@ -4,10 +4,10 @@
  *  Created on: 13 may. 2021
  *      Author: martindamian
  */
-#include "utn.h"
-#include "TrabajoServicio.h"
 #include <string.h>
 #include <stdio.h>
+#include "utn.h"
+#include "TrabajoServicio.h"
 
 #define LIBRE 0
 #define OCUPADO 1
